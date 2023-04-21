@@ -14,4 +14,8 @@ public class HelloWorld {
     public String getTexto(){
         return this.texto;
     }
+
+    public long getID() {
+        return this.ID;
+    }
 }
